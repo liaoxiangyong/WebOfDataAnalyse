@@ -12,7 +12,6 @@ export default {
     userFormButton: "登录",
     /*Server Info*/
     serverAddr: "http://localhost:8080",
-    // serverAddr: "http://172.18.7.103:8080",
     dlServerAddr: "http://localhost:8088",
     /*Home Page*/
     menuItem1: "首页",
